@@ -1,1 +1,3 @@
-# MIREA_procedural_programming
+Все 5 решенных домашек
+Задача про шарики
+Упражнения из базы заданий# MIREA_procedural_programming
